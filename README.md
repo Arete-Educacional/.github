@@ -18,6 +18,27 @@ Para os gregos, arete envolvia:
 
 Era excelência aplicada à própria vocação.
 
+
+## Diretrizes Gerais do Aplicativo
+
+**Linguagem e Terminologia**
+- Usar linguagem familiar tradicional: mãe, pai, filho, filha — não há alternativas higienizadas
+- Referências a Deus, fé, oração e prática religiosa são naturais e bem-vindas
+- Os nomes das virtudes usam seus termos clássicos (prudência, fortaleza, temperança, justiça) em vez de eufemismos modernos
+
+**Tom e Voz**
+- Encorajador, mas não paternalista — os pais são adultos capazes, não usuários que precisam ser guiados pela mão
+- Sem culpa por gamificação ("Você perdeu 3 dias!") — o app serve a família, não o contrário
+- Celebratório sem ser piegas — reconhecer o progresso sem elogios excessivos
+
+**Filosofia de Conteúdo**
+- Substância acima de métricas de engajamento — sem padrões obscuros, contagem de dias consecutivos ou urgência artificial
+- Os dados da família pertencem a ela — exportáveis, deletáveis, nunca vendidos
+- Mentalidade offline-first — funcionalidades essenciais funcionam sem conectividade constante
+
+**Acessibilidade**
+- Suporte para famílias grandes (6+ filhos) sem degradação da interface
+
 ## Relação com Educação
 
 Na filosofia grega — principalmente com Sócrates, Platão e Aristóteles — a educação tinha como objetivo formar pessoas capazes de viver com arete. Não era apenas ensinar conteúdo, mas formar o caráter e a alma.
